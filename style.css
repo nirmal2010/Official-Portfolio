@@ -317,8 +317,9 @@ section .title::after{
     background: crimson;
 }
 .skills-content .right .html::before{
-    width: 100%;
+    width: 90%;
 }
+
 .skills-content .right .css::before{
     width: 80%;
 }
